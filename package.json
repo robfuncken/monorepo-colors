@@ -2,7 +2,11 @@
     "name": "monorepo-colors",
     "displayName": "Monorepo Colors",
     "description": "Changes VSCode title bar color based on current app in monorepo",
-    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/robfuncken/monorepo-colors.git" 
+    }, 
+   "version": "1.0.0",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -50,6 +54,12 @@
         "watch": "tsc -watch -p ./",
         "pretest": "npm run compile"
     },
+    "files": [
+        "out/**/*",
+        "LICENSE",
+        "README.md",
+        "CHANGELOG.md"
+    ],
     "devDependencies": {
         "@types/node": "^16.11.7",
         "@types/vscode": "^1.50.0",
