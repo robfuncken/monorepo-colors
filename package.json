@@ -2,11 +2,11 @@
   "name": "monorepo-colors",
   "displayName": "Monorepo Colors",
   "description": "Changes VSCode title bar color based on current app in monorepo",
+  "publisher": "Nybl",
   "repository": {
     "type": "git",
     "url": "https://github.com/robfuncken/monorepo-colors.git"
   },
-  "icon": "images/logo.png",
   "galleryBanner": {
     "color": "#C80000",
     "theme": "dark"
