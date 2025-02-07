@@ -22,7 +22,7 @@ A VS Code extension that automatically changes your title bar color based on whi
 
 1. Open VS Code
 2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
-3. Search for "Monorepo Colors"
+3. Search for "Monorepo Colors" or [click here](https://marketplace.visualstudio.com/items?itemName=Nybl.monorepo-colors)
 4. Click Install
 
 ## Usage
